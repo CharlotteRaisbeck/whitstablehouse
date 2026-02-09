@@ -1,0 +1,12 @@
+{
+  "name": "california-house-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API for California House SharePoint integration",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {}
+}
+
+
+
