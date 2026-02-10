@@ -38,10 +38,10 @@ function SocialServicesFunding() {
                   <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%2DResident%2DCharges%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks&p=true&ga=1" className="pdf-link" target="_blank" rel="noopener noreferrer">Residents' Charges (pdf)</a>
                 </li>
                 <li>
-                  <a href="#" className="pdf-link">Resident Agreement – Social Services Funding (pdf)</a>
+                  <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?viewid=aee99abc%2D6faa%2D44f1%2Dac47%2D022ddee4714f&id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%20Resident%20Agreement%20%28SS%20Funding%29%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks" className="pdf-link">Resident Agreement – Social Services Funding (pdf)</a>
                 </li>
                 <li>
-                  <a href="#" className="pdf-link">Direct Debit Mandate (pdf)</a>
+                  <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?viewid=aee99abc%2D6faa%2D44f1%2Dac47%2D022ddee4714f&id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%20House%20DD%20Mandate%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks" className="pdf-link">Direct Debit Mandate (pdf)</a>
                 </li>
               </ul>
             </div>
@@ -58,7 +58,7 @@ function SocialServicesFunding() {
               <h3>Downloads</h3>
               <ul className="download-list">
                 <li>
-                  <a href="#" className="pdf-link">3rd Party Personal Guarantee (pdf)</a>
+                  <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?viewid=aee99abc%2D6faa%2D44f1%2Dac47%2D022ddee4714f&id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%2D3rd%2DParty%2DPersonal%2DGuarantee%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks" className="pdf-link">3rd Party Personal Guarantee (pdf)</a>
                 </li>
               </ul>
             </div>

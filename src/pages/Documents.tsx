@@ -126,11 +126,17 @@ function Documents() {
         let errorMessage = err.message || 'Failed to load documents';
         
         // Provide more helpful error messages
-        if (err.message && err.message.includes('Failed to fetch') || err.message.includes('NetworkError')) {
-          errorMessage = 'Cannot connect to the server. Please ensure the backend server is running: npm run server';
+        if (
+          err.message &&
+          (err.message.includes('Failed to fetch') ||
+           err.message.includes('NetworkError'))
+        ) {
+          errorMessage =
+            'Cannot connect to the server. Please ensure the backend server is running: npm run server';
         } else if (err.message && err.message.includes('tenant identifier')) {
-          errorMessage = 'SharePoint credentials are not configured. Please update sharepoint.env with your Azure AD credentials.';
-        }
+          errorMessage =
+            'SharePoint credentials are not configured. Please update sharepoint.env with your Azure AD credentials.';
+        }        
         
         setError(errorMessage);
       } finally {

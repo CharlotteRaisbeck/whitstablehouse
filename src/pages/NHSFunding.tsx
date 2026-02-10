@@ -49,10 +49,10 @@ function NHSFunding() {
             <div className="section__text charges-content">
               <ul className="download-list">
                 <li>
-                  <a href="#" className="pdf-link">Resident Agreement – NHS CHC Funding (pdf)</a>
+                  <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?viewid=aee99abc%2D6faa%2D44f1%2Dac47%2D022ddee4714f&id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%20Resident%20Agreement%20%28NHS%20Funding%29%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks" className="pdf-link">Resident Agreement – NHS CHC Funding (pdf)</a>
                 </li>
                 <li>
-                  <a href="#" className="pdf-link">Download Direct Debit Mandate (pdf)</a>
+                  <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?viewid=aee99abc%2D6faa%2D44f1%2Dac47%2D022ddee4714f&id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%20House%20DD%20Mandate%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks" className="pdf-link">Download Direct Debit Mandate (pdf)</a>
                 </li>
               </ul>
             </div>

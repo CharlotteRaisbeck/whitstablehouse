@@ -41,7 +41,7 @@ function SelfFunding() {
                   <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FArchive%2FWeblinks%2FWhitstable%2DAgreement%2DPrivate%2DFunding%2024%2D02%2D12%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FArchive%2FWeblinks&p=true&ga=1" className="pdf-link" target="_blank" rel="noopener noreferrer">Resident Agreement – Self Funding (pdf)</a>
                 </li>
                 <li>
-                  <a href="#" className="pdf-link">Direct Debit Mandate (pdf)</a>
+                  <a href="https://grahamcare.sharepoint.com/sites/WebDocuments/Shared%20Documents/Forms/AllItems.aspx?viewid=aee99abc%2D6faa%2D44f1%2Dac47%2D022ddee4714f&id=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks%2FWhitstable%20House%20DD%20Mandate%2Epdf&parent=%2Fsites%2FWebDocuments%2FShared%20Documents%2FGeneral%2FWhitstable%2FWeblinks" className="pdf-link">Direct Debit Mandate (pdf)</a>
                 </li>
               </ul>
               
